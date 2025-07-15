@@ -4,16 +4,16 @@
 
 # FirmaERP | Cliente
 
-![Lançamento no GitHub](https://img.shields.io/github/v/release/FirmaERP/firmaerp_client?include_prereleases&color=%23272A3F)
-![Licença](https://img.shields.io/github/license/FirmaERP/firmaerp_client?color=%23272A3F)
-![Contribuição](https://img.shields.io/badge/contributions-Closed-%23272A3F)
+![Lançamento no GitHub](https://img.shields.io/github/v/release/FirmaERP/firmaerp_client?include_prereleases&color=orange)
+![Licença](https://img.shields.io/github/license/FirmaERP/firmaerp_client?color=orange)
+![Contribuição](https://img.shields.io/badge/contributions-Closed-orange)
 
 Esse repositório FirmaERP centraliza o aplicativo cliente e seus módulos.
 
 ## 📦 Tecnologias
 
-![Feito com Dart](https://img.shields.io/badge/backend-Dart-%23272A3F)
-![Feito com Flutter](https://img.shields.io/badge/frontend-Flutter-%23272A3F)
+![Feito com Dart](https://img.shields.io/badge/backend-Dart-orange)
+![Feito com Flutter](https://img.shields.io/badge/frontend-Flutter-orange)
 [![style: very good analysis](https://img.shields.io/badge/style-very_good_analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
 
 * [Dart](hhttps://dart.dev/)
