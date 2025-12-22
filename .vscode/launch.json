@@ -1,0 +1,28 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "dart",
+      "request": "launch",
+      "name": "firmaerp_client",
+      "program": "app/lib/main.dart"
+    },
+    {
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "profile",
+      "program": "app/lib/main.dart",
+      "name": "firmaerp_client (profile mode)",
+    },
+    {
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "release",
+      "program": "app/lib/main.dart",
+      "name": "firmaerp_client (release mode)",
+    },
+  ]
+}

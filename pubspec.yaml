@@ -1,14 +1,13 @@
 name: firmaerp_client
 description: This FirmaERP repository centralizes the client application and its associated modules.
 
+publish_to: none
 homepage: https://firmaerp.softyes.com.br
 repository: https://github.com/FirmaERP/firmaerp_client
 
-publish_to: none
-
 environment:
-  sdk: ^3.8.1
-  flutter: ^3.32.6
+  sdk: ^3.10.4
+  flutter: ^3.38.5
 
 workspace:
   - app/
@@ -18,4 +17,4 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^6.0.0
-  very_good_analysis: ^9.0.0
+  very_good_analysis: ^10.0.0
