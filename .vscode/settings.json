@@ -5,9 +5,11 @@
     "cupertino",
     "debian",
     "firmaerp",
+    "linux",
     "pubspec",
     "softyes",
     "swiftpm",
     "Symbolication"
-  ]
+  ],
+  "makefile.configureOnOpen": false
 }
